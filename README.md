@@ -1,4 +1,4 @@
-# ![](./img/vector.svg ./img/laslesVPN.svg) LaslesVPN landing page
+# LaslesVPN landing page
 
 See the deployment [here](https://laslesvpn-test.herokuapp.com/)
 
