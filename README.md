@@ -1,4 +1,6 @@
-# ![](./img/laslesVPN.svg) LaslesVPN landing page
+# ![](./img/vector.svg ./img/laslesVPN.svg) LaslesVPN landing page
+
+See the deployment [here](https://laslesvpn-test.herokuapp.com/)
 
 ## Overview
 This project consists of creating a landing page in HTML, CSS and Javascript based on the [Figma Design](https://www.figma.com/file/FBKj7FLMIVLBuBoAj8alwP/LaslesVPN-Test)
